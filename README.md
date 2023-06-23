@@ -1,4 +1,12 @@
 # challenge-2 vba code
+
+
+
+
+
+
+
+
 Sub StockDataAnalysis()
     ' Set initial variables
     Dim ticker As String
